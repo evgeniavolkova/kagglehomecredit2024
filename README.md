@@ -17,7 +17,7 @@ Solution write-up can be found in [Solution.md](https://github.com/evgeniavolkov
 - data/: Contains all data files (omitted in the repo because of the size).
     - csv_files/: CSV files [provided by the host](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data).
     - parquet/: parquet files [provided by the host](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data).
-    - processed/: Processed data files generated via data processors from [data/](https://github.com/evgeniavolkova/kagglehomecredit2024/tree/master/data).
+    - processed/: Processed data files generated via data processors from [data/](https://github.com/evgeniavolkova/kagglehomecredit2024/tree/master/homecredit/data).
 - features/: Contains all feature-related files.
     - feature_definitions.csv: Definitions and descriptions of each feature, provided by the host.
     - features_X.csv: CSV files containing information about how to transform and aggregate features. Manually created. X is a version of the data processor.
