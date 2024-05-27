@@ -5,12 +5,11 @@ Solution for the [Home Credit 2024 Kaggle competition](https://www.kaggle.com/co
 Solution write-up can be found in [Solution.md](https://github.com/evgeniavolkova/kagglehomecredit2024/blob/master/Solution.md).
 
 ## Usage
-- To submit on Kaggle: use the notebook. #TODO link
-- To train models: example usage is in notebooks/main.ipynb. To be able to run the code on Google Colab, you'll need to
-    1. Add data files into data/parquet_files folder.
-    2. Set paths in [homecredit/config.py](https://github.com/evgeniavolkova/kagglehomecredit2024/blob/master/homecredit/config.py).
-    3. Create a [WandB](https://wandb.ai/home) account and paste API key on request.
-    4. The code safely runs with 50GB RAM.
+Example usage is in notebooks/main.ipynb. To be able to run the code on Google Colab, you'll need to
+1. Add data files into data/parquet_files folder.
+2. Set paths in [homecredit/config.py](https://github.com/evgeniavolkova/kagglehomecredit2024/blob/master/homecredit/config.py).
+3. Create a [WandB](https://wandb.ai/home) account and paste API key on request.
+4. About 50GB of RAM to train models (could be less depending on the number of features).
 
 ## Project Structure
 
