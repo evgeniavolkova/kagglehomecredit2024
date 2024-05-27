@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "homecredit"
+version = "0.1.0"
+description = ""
+authors = ["evgeniavolkova <eivolkova3@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+pandas = "^2.2.0"
+polars = "^0.20.7"
+matplotlib = "^3.8.2"
+seaborn = "^0.13.2"
+pyarrow = "^15.0.0"
+lightgbm = "^4.3.0"
+scikit-learn = "^1.4.0"
+tqdm = "^4.66.2"
+torch = "^2.2.0"
+wandb = "^0.16.4"
+xgboost = "^2.0.3"
+category-encoders = "^2.6.3"
+
+[tool.poetry.dev-dependencies]
+ipywidgets = "^8.1.2"
+ruff = "^0.4.4"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff.format]
+exclude = ["junk"]

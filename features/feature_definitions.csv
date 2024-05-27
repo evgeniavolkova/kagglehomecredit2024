@@ -1,0 +1,466 @@
+Variable,Description
+actualdpd_943P,Days Past Due (DPD) of previous contract (actual).
+actualdpdtolerance_344P,DPD of client with tolerance.
+addres_district_368M,District of the person's address.
+addres_role_871L,Role of person's address.
+addres_zip_823M,Zip code of the address.
+amount_1115A,Credit amount of the active contract provided by the credit bureau.
+amount_416A,Deposit amount.
+amount_4527230A,Tax deductions amount tracked by the government registry.
+amount_4917619A,Tax deductions amount tracked by the government registry.
+amtdebitincoming_4809443A,Incoming debit card transactions amount.
+amtdebitoutgoing_4809440A,Outgoing debit card transactions amount.
+amtdepositbalance_4809441A,Deposit balance of client.
+amtdepositincoming_4809444A,Amount of incoming deposits to client's account.
+amtdepositoutgoing_4809442A,Amount of outgoing deposits from client's account.
+amtinstpaidbefduel24m_4187115A,Number of instalments paid before due date in the last 24 months.
+annualeffectiverate_199L,Interest rate of the closed contracts.
+annualeffectiverate_63L,Interest rate for the active contracts.
+annuity_780A,Monthly annuity amount.
+annuity_853A,Monthly annuity for previous applications.
+annuitynextmonth_57A,Next month's amount of annuity.
+applicationcnt_361L,Number of applications associated with the same email address as the client.
+applications30d_658L,Number of applications made by the client in the last 30 days.
+applicationscnt_1086L,Number of applications associated with the same phone number.
+applicationscnt_464L,Number of applications made in the last 30 days by other clients with the same employer as the applicant.
+applicationscnt_629L,Number of applications with the same employer in the last 7 days.
+applicationscnt_867L,Number of applications associated with the same mobile phone.
+approvaldate_319D,Approval Date of Previous Application
+assignmentdate_238D,Tax authority data - date of assignment.
+assignmentdate_4527235D,Tax authority data - Date of assignment.
+assignmentdate_4955616D,Tax authority assignment date.
+avgdbddpdlast24m_3658932P,Average days past or before due of payment during the last 24 months.
+avgdbddpdlast3m_4187120P,Average days past or before due of payment during the last 3 months.
+avgdbdtollast24m_4525197P,Average days of payment before due date within the last 24 months (with tolerance).
+avgdpdtolclosure24_3658938P,"Average DPD (days past due) with tolerance within the past 24 months from the maximum closure date, assuming that the contract is finished. If the contract is ongoing, the calculation is based on the current date."
+avginstallast24m_3658937A,Average instalments paid by the client over the past 24 months.
+avglnamtstart24m_4525187A,Average loan amount in the last 24 months.
+avgmaxdpdlast9m_3716943P,Average Days Past Due (DPD) of the client in last 9 months.
+avgoutstandbalancel6m_4187114A,Average outstanding balance of applicant for the last 6 months.
+avgpmtlast12m_4525200A,Average of payments made by the client in the last 12 months.
+bankacctype_710L,Type of applicant's bank account.
+birth_259D,Date of birth of the person.
+birthdate_574D,Client's date of birth (credit bureau data).
+birthdate_87D,Birth date of the person.
+byoccupationinc_3656910L,Applicant's income from previous applications.
+cacccardblochreas_147M,Card blocking reason.
+cancelreason_3545846M,Application cancellation reason.
+cardtype_51L,Type of credit card.
+childnum_185L,Number of children of the applicant.
+childnum_21L,Number of children in the previous application.
+classificationofcontr_1114M,Classificiation of the active contract.
+classificationofcontr_13M,Classificiation of the active contract.
+classificationofcontr_400M,Classificiation of the closed contract.
+clientscnt_100L,Number of applications with matching employer's phone and client's.
+clientscnt_1022L,Number of clients sharing the same mobile phone.
+clientscnt_1071L,Number of applications where the alternative phone number matches that of the client.
+clientscnt_1130L,Number of applications where client's phone number matches the alternative phone contact.
+clientscnt_136L,Number of applications associated with same email address as client's email.
+clientscnt_157L,Number of clients whose employer has the same phone number as the client.
+clientscnt_257L,Number of clients that share an alternative phone number with the applicant.
+clientscnt_304L,Number of clients with the same phone number.
+clientscnt_360L,Number of clients that have the same alternative phone number and employer's phone number.
+clientscnt_493L,Number of clients with matching phone numbers for both the employer and the client.
+clientscnt_533L,Number of clients with same client's and alternative's phone number
+clientscnt_887L,Number of clients sharing the same employer's phone number.
+clientscnt_946L,Number of clients with matching mobile and employer's number.
+clientscnt12m_3712952L,Number of clients that have used the same mobile phone as the applicant in the past 12 months.
+clientscnt3m_3712950L,Number of clients who have the same mobile phone number in the last 3 months.
+clientscnt6m_3712949L,Total number of clients who have used the same mobile number in the last 6 months.
+cntincpaycont9m_3716944L,Number of incoming payments in the past 9 months.
+cntpmts24_3658933L,Number of months with any incoming payment in last 24 months.
+collater_typofvalofguarant_298M,Collateral valuation type (active contract).
+collater_typofvalofguarant_407M,Collateral valuation type (closed contract).
+collater_valueofguarantee_1124L,Value of collateral for active contract.
+collater_valueofguarantee_876L,Value of collateral for closed contract.
+collaterals_typeofguarante_359M,Type of collateral that was used as a guarantee for a closed contract.
+collaterals_typeofguarante_669M,Collateral type for the active contract.
+commnoinclast6m_3546845L,Number of communications indicating low income in the last six months.
+contaddr_district_15M,Zip code of a contact person's address.
+contaddr_matchlist_1032L,Indicates whether the contact address is found in a code list.
+contaddr_smempladdr_334L,Indicates whether the contact address is the same as the employment address.
+contaddr_zipcode_807M,Zip code of contact address.
+contractdate_551D,Contract date of the active contract
+contractenddate_991D,End date of deposit contract.
+contractmaturitydate_151D,End date of active contract.
+contractssum_5085716L,Total sum of values of contracts retrieved from external credit bureau.
+contractst_516M,Contract status.
+contractst_545M,Contract status.
+contractst_964M,Contract status of terminated credit contract.
+contractsum_5085717L,Sum of other contract values.
+contracttype_653M,Contract Type
+conts_role_79M,Type of contact role of a person.
+conts_type_509L,Person contact type in previous application.
+creationdate_885D,Date when previous application was created.
+credacc_actualbalance_314A,Actual balance on credit account.
+credacc_cards_status_52L,Card status of the previous credit account.
+credacc_credlmt_575A,Credit card credit limit provided for previous applications.
+credacc_maxhisbal_375A,Maximal historical balance of previous credit account
+credacc_minhisbal_90A,Minimum historical balance of previous credit accounts.
+credacc_status_367L,Account status of previous credit applications.
+credacc_transactions_402L,Number of transactions made with the previous credit account of the applicant.
+credamount_590A,Loan amount or card limit of previous applications.
+credamount_770A,Loan amount or credit card limit.
+credlmt_1052A,Credit limit of an active loan.
+credlmt_228A,Credit limit for closed loans.
+credlmt_230A,Credit limit of the closed credit contracts from credit bureau.
+credlmt_3940954A,Credit limit for active loan.
+credlmt_935A,Credit limit for active loan.
+credor_3940957M,Creditor's name
+credquantity_1099L,Number of credits in credit bureau
+credquantity_984L,Number of closed credits in credit bureau.
+credtype_322L,Type of credit.
+credtype_587L,Credit type of previous application.
+currdebt_22A,Current debt amount of the client.
+currdebt_94A,Previous application's current debt.
+currdebtcredtyperange_828A,Current amount of debt of the applicant.
+dateactivated_425D,Contract activation date of the applicant's previous application.
+datefirstoffer_1144D,Date of first customer relationship management (CRM) offer.
+datelastinstal40dpd_247D,Date of last instalment that was more than 40 days past due (DPD).
+datelastunpaid_3546854D,Date of the last unpaid instalment.
+dateofbirth_337D,Client's date of birth.
+dateofbirth_342D,Client's date of birth.
+dateofcredend_289D,End date of an active credit contract.
+dateofcredend_353D,End date of a closed credit contract.
+dateofcredstart_181D,Date when the credit contract was closed.
+dateofcredstart_739D,Start date of a closed credit contract.
+dateofrealrepmt_138D,Date of credit's closure (contract termination date).
+days120_123L,Number of credit bureau queries for the last 120 days.
+days180_256L,Number of credit bureau queries for last 180 days.
+days30_165L,Number of credit bureau queries for the last 30 days.
+days360_512L,Number of Credit Bureau queries for last 360 days.
+days90_310L,Number of credit bureau queries for the last 90 days.
+daysoverduetolerancedd_3976961L,Number of days that past after the due date (with tolerance).
+debtoutstand_525A,Outstanding amount of existing contract.
+debtoverdue_47A,Amount that is currently past due on a client's existing credit contract.
+debtpastduevalue_732A,Amount of unpaid debt for existing contracts.
+debtvalue_227A,Outstanding amount for existing debt contracts.
+deductiondate_4917603D,Tax deduction date.
+deferredmnthsnum_166L,Number of deferred months.
+description_351M,Categorization of clients by credit bureau.
+description_5085714M,Categorization of clients by credit bureau.
+disbursedcredamount_1113A,Disbursed credit amount after consolidation.
+disbursementtype_67L,Type of disbursement.
+district_544M,District of the address used in the previous loan application.
+downpmt_116A,Amount of downpayment.
+downpmt_134A,Previous application downpayment amount.
+dpd_550P,The number of days past due for active loans where a guarantee has been provided.
+dpd_733P,Days past due (DPD) for guaranteed loans that were terminated according to credit bureau data.
+dpdmax_139P,Maximal days past due for active contract.
+dpdmax_757P,Maximum days past due for a closed contract.
+dpdmax_851P,Maximal past due days for active contracts in the credit bureau.
+dpdmaxdatemonth_442T,Max DPD occurrence month for terminated contracts from credit bureau data.
+dpdmaxdatemonth_804T,Month when the maximum Day Past Due (DPD) occurred for active contracts on credit bureau's records.
+dpdmaxdatemonth_89T,Month when maximum days past due occurred on the active contract with the credit bureau.
+dpdmaxdateyear_596T,Year when maximum Days Past Due (DPD) occurred for the active contract.
+dpdmaxdateyear_742T,Year of the maximum Days Past Due (DPD) on an active credit contract in the credit bureau.
+dpdmaxdateyear_896T,Year of maximum Days Past Due of closed contract obtained from Credit Bureau.
+dtlastpmt_581D,Date of last payment made by the applicant.
+dtlastpmtallstes_3545839D,Date of the applicant's last payment.
+dtlastpmtallstes_4499206D,Date of last payment made by the applicant.
+education_1103M,Level of education of the client provided by external source.
+education_1138M,Applicant's education level from their previous application.
+education_88M,Education level of the client.
+education_927M,Education level of the person.
+eir_270L,Interest rate.
+empl_employedfrom_271D,Start date of employment.
+empl_employedtotal_800L,Employment length of a person.
+empl_industry_691L,Employment Industry of the person.
+empladdr_district_926M,District where the employer's address is located.
+empladdr_zipcode_114M,Zipcode of employer's address.
+employedfrom_700D,Employment start date from the previous application.
+employername_160M,Employer's name.
+empls_economicalst_849M,"The economical status of the person (num_group1 - person, num_group2 - employment)."
+empls_employedfrom_796D,"Start of employment (num_group1 - person, num_group2 - employment)."
+empls_employer_name_740M,"Employer's name (num_group1 - person, num_group2 - employment)."
+equalitydataagreement_891L,"Flag indicating sudden changes in client's social-demographic data (e.g. education, family status, housing type)."
+equalityempfrom_62L,Flag indicating a sudden change in the client's length of employment.
+familystate_447L,Family state of the person.
+familystate_726L,Family State in previous application of applicant.
+financialinstitution_382M,Name of financial institution that is linked to a closed contract.
+financialinstitution_591M,Financial institution name of the active contract.
+firstclxcampaign_1125D,Date of the client's first campaign.
+firstdatedue_489D,Date of the first due date.
+firstnonzeroinstldate_307D,Date of first instalment in the previous application.
+firstquarter_103L,Number of results obtained from credit bureau in the first quarter.
+for3years_128L,Number of rejected applications in the past 3 years.
+for3years_504L,Client's credit history data over the last three years.
+for3years_584L,Number of cancellations in the last 3 years.
+formonth_118L,Number of rejections in a month.
+formonth_206L,Number of cancelations in the previous month.
+formonth_535L,Credit history for the last month.
+forquarter_1017L,Number of cancellations recorded in the credit bureau in the last quarter.
+forquarter_462L,Number of credit applications that were rejected in the last quarter.
+forquarter_634L,Credit history for the last quarter.
+fortoday_1092L,Client's credit history for today.
+forweek_1077L,Number of cancelations in the last week.
+forweek_528L,Credit history for the last week.
+forweek_601L,Number of rejected applications in the last week.
+foryear_618L,Number of application rejections in the previous year.
+foryear_818L,Number of cancelations that occurred in last year.
+foryear_850L,Credit history for the last year.
+fourthquarter_440L,Number of results in fourth quarter.
+gender_992L,Gender of a person.
+homephncnt_628L,Number of distinct home phones on client's application.
+housetype_905L,House type of the person.
+housingtype_772L,Type of housing of the person.
+incometype_1044T,Type of income of the person
+inittransactionamount_650A,Initial transaction amount of the credit application.
+inittransactioncode_186L,Transaction type of the initial credit transaction.
+inittransactioncode_279L,Type of the initial transaction made in the previous application of the client.
+installmentamount_644A,Instalment amount of a closed and secured credit contract.
+installmentamount_833A,Instalment amount for a secured and active contract in credit bureau.
+instlamount_768A,Instalment amount for the active contract in credit bureau.
+instlamount_852A,Instalment amount for closed contract.
+instlamount_892A,Instalment amount for active credit contract.
+interesteffectiverate_369L,Interest rate on active contract.
+interestrate_311L,The interest rate of the active credit contract.
+interestrate_508L,Interest rate for a closed contract in the credit bureau.
+interestrategrace_34L,Interest rate during the grace period.
+interestrateyearly_538L,Annual interest rate for existing contract obtained from credit bureau.
+isbidproduct_1095L,Flag indicating if the product is a cross-sell.
+isbidproduct_390L,Flag for determining if the product is a cross-sell in previous applications.
+isbidproductrequest_292L,Flag indicating if the product is a cross-sell.
+isdebitcard_527L,Previous application flag indicating if product being applied for is a debit card.
+isdebitcard_729L,Flag indicating if the product is a debit card.
+isreference_387L,Flag indicating whether the person is a reference contact.
+language1_981M,The primary language of the person.
+last180dayaveragebalance_704A,Average balance on debit card in the last 180 days.
+last180dayturnover_1134A,Debit card's turnover within the last 180 days.
+last30dayturnover_651A,Debit card turnover for the last 30 days.
+lastactivateddate_801D,Contract activation date for previous applications.
+lastapplicationdate_877D,Date of previous customer's application.
+lastapprcommoditycat_1041M,Commodity category of the last loan applications made by the applicant.
+lastapprcommoditytypec_5251766M,Commodity type of the last application.
+lastapprcredamount_781A,Credit amount from the client's last application.
+lastapprdate_640D,Date of approval on client's most recent previous application.
+lastcancelreason_561M,Cancellation reason of the last application.
+lastdelinqdate_224D,Date of the last delinquency occurrence.
+lastdependentsnum_448L,Number of dependents in the client's last loan application.
+lastotherinc_902A,Amount of other income reported by the client in their last application.
+lastotherlnsexpense_631A,Monthly expenses on other loans from the last application.
+lastrejectcommoditycat_161M,Category of commodity in the applicant's last rejected application.
+lastrejectcommodtypec_5251769M,Commodity type of the last rejected application.
+lastrejectcredamount_222A,Credit amount on last rejected application.
+lastrejectdate_50D,Date of most recent rejected application by the applicant.
+lastrejectreason_759M,Reason for rejection on the most recent rejected application.
+lastrejectreasonclient_4145040M,Reason for the client's last loan rejection.
+lastrepayingdate_696D,Date of the last payment made by the applicant.
+lastst_736L,Status of the client's previous credit application.
+lastupdate_1112D,Date of last update for an active contract from credit bureau.
+lastupdate_260D,Last update date for the active contracts.
+lastupdate_388D,Date of last update for a closed contract in the credit bureau.
+maininc_215A,Client's primary income amount.
+mainoccupationinc_384A,Amount of the main income of the client.
+mainoccupationinc_437A,Client's main income amount in their previous application.
+maritalst_385M,Marital status of the client.
+maritalst_703L,Marital status of the client.
+maritalst_893M,Marital status of the client
+mastercontrelectronic_519L,Flag indicating the existence of the master contract for the client.
+mastercontrexist_109L,Flag indicating whether or not the applicant has an existing master contract.
+maxannuity_159A,Maximum annuity previously obtained by client.
+maxannuity_4075009A,Maximal annuity offered to the client in the current application.
+maxdbddpdlast1m_3658939P,Maximum number of days past due in the last month. A negative value indicates the number of days before the due date.
+maxdbddpdtollast12m_3658940P,Maximum number of days past due in last 12 months. A negative value implies days before due date.
+maxdbddpdtollast6m_4187119P,Maximum number of days past due in last 6 months. This predictor takes the value as a negative number when it represents days before due date.
+maxdebt4_972A,Maximal principal debt of the client in the history older than 4 months.
+maxdebtpduevalodued_3940955A,Days past due at the time of the maximum debt.
+maxdpdfrom6mto36m_3546853P,Maximum Days Past Due (DPD) in the period ranging from 6 to 36 months.
+maxdpdinstldate_3546855D,Date of instalment on which client was most days past due.
+maxdpdinstlnum_3546846P,Instalment number of which client was most days past due.
+maxdpdlast12m_727P,Maximum days past due in the past 12 months.
+maxdpdlast24m_143P,Maximal days past due in the last 24 months.
+maxdpdlast3m_392P,Maximum number of days past due in last 3 months.
+maxdpdlast6m_474P,Maximum days past due in the last 6 months.
+maxdpdlast9m_1059P,Maximum days past due in last 9 months.
+maxdpdtolerance_374P,Maximum number of days past due (with tolerance).
+maxdpdtolerance_577P,Maximum DPD with tolerance (on previous application/s).
+maxinstallast24m_3658928A,Maximum instalment in the last 24 months
+maxlnamtstart6m_4525199A,Maximum loan amount started in the last 6 months.
+maxoutstandbalancel12m_4187113A,Maximum outstanding balance in the last 12 months.
+maxpmtlast3m_4525190A,Maximum payment made by the client in the last 3 months.
+mindbddpdlast24m_3658935P,Minimum days past due (or days before due) in last 24 months.
+mindbdtollast24m_4525191P,Minimum days before due in last 24 months.
+mobilephncnt_593L,Number of persons with the same mobile phone number.
+monthlyinstlamount_332A,Monthly instalment amount for active contract.
+monthlyinstlamount_674A,Monthly amount of instalment payment on a closed contract.
+monthsannuity_845L,Monthly annuity amount for the applicant.
+name_4527232M,Name of employer.
+name_4917606M,Name of employer.
+nominalrate_281L,Interest rate of the active contract.
+nominalrate_498L,Interest rate for closed contract.
+numactivecreds_622L,Number of active credits.
+numactivecredschannel_414L,Number of active credits.
+numactiverelcontr_750L,Number of active revolving credits.
+numberofcontrsvalue_258L,Number of active contracts in credit bureau.
+numberofcontrsvalue_358L,Number of closed credit contracts.
+numberofinstls_229L,Number of instalments on closed contract.
+numberofinstls_320L,Number of instalments of the active contract.
+numberofinstls_810L,Number of instalments for the active contract.
+numberofoutstandinstls_520L,Number of outstanding instalment for closed contract.
+numberofoutstandinstls_59L,Number of outstanding instalments for the active contracts.
+numberofoverdueinstlmax_1039L,Number of outstanding instalments for active contracts.
+numberofoverdueinstlmax_1151L,Maximum number of past due installments for a closed contract.
+numberofoverdueinstlmaxdat_148D,Date of maximum number of past due instalments for the closed contract.
+numberofoverdueinstlmaxdat_641D,Date of maximum number of past due instalments for the active contract.
+numberofoverdueinstls_725L,Maximum number of past due instalments for an active contract.
+numberofoverdueinstls_834L,Number of past due instalments for a closed contract.
+numberofqueries_373L,Number of queries to credit bureau.
+numcontrs3months_479L,Number of contracts in last 3 months.
+numincomingpmts_3546848L,Number of incoming payments.
+numinstlallpaidearly3d_817L,Number of instalments paid at least 3 days prior to their due date.
+numinstls_657L,Number of instalments.
+numinstlsallpaid_934L,Number of paid instalments.
+numinstlswithdpd10_728L,Number of instalments that were overdue for 10 or more days.
+numinstlswithdpd5_4187116L,Number of instalments that were overdue by at least 5 days.
+numinstlswithoutdpd_562L,Number of instalments that were not past due date.
+numinstmatpaidtearly2d_4499204L,Number of instalments that have been paid more than 2 days before their due date.
+numinstpaid_4499208L,Number of paid instalments.
+numinstpaidearly_338L,Number of installments paid prior to the due date.
+numinstpaidearly3d_3546850L,Number of instalments paid more than three days before the due date.
+numinstpaidearly3dest_4493216L,Number of instalments that have been paid more than 3 days in advance of the due date.
+numinstpaidearly5d_1087L,Number of instalments paid more than 5 days prior to the due date.
+numinstpaidearly5dest_4493211L,Number of instalments that were paid more than 5 days before the due date.
+numinstpaidearly5dobd_4499205L,Number of installments paid more than 5 days prior to the due date.
+numinstpaidearlyest_4493214L,Number of instalments paid before the due date.
+numinstpaidlastcontr_4325080L,Number of paid installments from the client's last contract.
+numinstpaidlate1d_3546852L,Number of instalments paid more than 1 day past their due date.
+numinstregularpaid_973L,Number of fully paid regular installments in the client's previous contracts.
+numinstregularpaidest_4493210L,Number of fully paid regular installments on clients' previous contracts.
+numinsttopaygr_769L,Number of unpaid instalments.
+numinsttopaygrest_4493213L,Number of unpaid instalments.
+numinstunpaidmax_3546851L,Maximum number of unpaid instalments.
+numinstunpaidmaxest_4493212L,Maximum number of unpaid instalments.
+numnotactivated_1143L,Number of non-activated credits.
+numpmtchanneldd_318L,Number of previous loan contracts for the applicant that had direct debit as payment channel.
+numrejects9m_859L,Number of credit applications that were rejected in the last 9 months.
+opencred_647L,Number of active loans from the previous application.
+openingdate_313D,Deposit account opening date.
+openingdate_857D,Debit card opening date.
+outstandingamount_354A,Outstanding amount for closed credit contract in credit bureau.
+outstandingamount_362A,Active contract's outstanding amount.
+outstandingdebt_522A,Amount of outstanding debt on the client's previous application.
+overdueamount_31A,Past due amount for a closed contract.
+overdueamount_659A,Past due amount for active contract.
+overdueamountmax_155A,Maximal past due amount for active contract.
+overdueamountmax_35A,Maximal past due amount for a closed contract.
+overdueamountmax_950A,Maximal past due amount for active contract.
+overdueamountmax2_14A,Maximal past due amount for an active contract.
+overdueamountmax2_398A,Maximal overdue amount for a closed contract.
+overdueamountmax2date_1002D,Date of maximal past due amount for a closed contract
+overdueamountmax2date_1142D,Date of maximal past due amount for an active contract.
+overdueamountmaxdatemonth_284T,Month when the maximum past due amount occurred for a closed contract.
+overdueamountmaxdatemonth_365T,Month when maximum past due amount occurred for an active contract.
+overdueamountmaxdatemonth_494T,Month when the maximum past due amount was recorded for an active contract with the credit bureau.
+overdueamountmaxdateyear_2T,Year when the maximum past due amount occurred for active contracts.
+overdueamountmaxdateyear_432T,Year when max past due amount occurred for active contract.
+overdueamountmaxdateyear_994T,Year when maximum past due amount occurred for closed contract.
+paytype_783L,Type of payment.
+paytype1st_925L,Type of first payment of the client.
+payvacationpostpone_4187118D,Date of last payment holiday instalment.
+pctinstlsallpaidearl3d_427L,Percentage of installments paid at least 3 days prior to the due date.
+pctinstlsallpaidlat10d_839L,Percentage of installments that were paid 10 or more days after the due date.
+pctinstlsallpaidlate1d_3546856L,Percentage of installments that are paid 1 or more days after the due date.
+pctinstlsallpaidlate4d_3546849L,Percentage of installments that were paid 4 or more days past their due date.
+pctinstlsallpaidlate6d_3546844L,Percentage of installments that were paid 6 or more days past their due date.
+periodicityofpmts_1102L,Frequency of instalments for a closed contract.
+periodicityofpmts_837L,Frequency of instalments for an active contract.
+periodicityofpmts_997L,Frequency of instalments for active credit contracts.
+periodicityofpmts_997M,Frequency of instalments for active credit contracts.
+personindex_1023L,Order of the person specified on the application form.
+persontype_1072L,Person type.
+persontype_792L,Person type.
+pmtamount_36A,Tax deductions amount for credit bureau payments.
+pmtaverage_3A,Average of tax deductions.
+pmtaverage_4527227A,Average of tax deductions.
+pmtaverage_4955615A,Average of tax deductions.
+pmtcount_4527229L,Number of tax deductions.
+pmtcount_4955617L,Number of tax deductions.
+pmtcount_693L,Number of tax deductions.
+pmtdaysoverdue_1135P,Number of days past due for existing contracts in the credit bureau.
+pmtmethod_731M,Instalment payment method for existing contract in credit bureau.
+pmtnum_254L,Total number of loan payments made by the client.
+pmtnum_8L,Number of payments made for the previous application.
+pmtnumpending_403L,Number of pending payments for active contract.
+pmts_date_1107D,"Payment date for an active contract according to credit bureau (num_group1 - contract, num_group2 - payment)."
+pmts_dpd_1073P,"Days past due of the payment for the active contract (num_group1 - existing contract, num_group2 - payment)."
+pmts_dpd_303P,"Days past due of the payment for terminated contract according to credit bureau (num_group1 - terminated contract, num_group2 - payment)."
+pmts_dpdvalue_108P,"Value of past due payment for active contract (num_group1 - existing contract, num_group2 - payment)."
+pmts_month_158T,"Month of payment for a closed contract (num_group1 - existing contract, num_group2 - payment)."
+pmts_month_706T,"Month of payment for active contract (num_group1 - terminated contract, num_group2 - payment)."
+pmts_overdue_1140A,"Overdue payment for an active contract (num_group1 - existing contract, num_group2 - payment)."
+pmts_overdue_1152A,"Overdue payment for a closed contract (num_group1 - terminated contract, num_group2 - payment)."
+pmts_pmtsoverdue_635A,"Active contract that has overdue payments (num_group1 - existing contract, num_group2 - payment)."
+pmts_year_1139T,"Year of payment for an active contract (num_group1 - existing contract, num_group2 - payment)."
+pmts_year_507T,"Payment year for a closed credit contract (num_group1 - terminated contract, num_group2 - payment)."
+pmtscount_423L,Number of tax deduction payments.
+pmtssum_45A,Sum of tax deductions for the client.
+posfpd10lastmonth_333P,Average FPD10 (Share of contracts with first installment past due more than 10 days) from point of sales that processed contract in the previous month.
+posfpd30lastmonth_3976960P,Average FPD30 (Share of contracts with first installment past due more than 30 days) from point of sales that processed contract in the previous month.
+posfstqpd30lastmonth_3976962P,"Average FSTPD30 (share of contracts with first, second, or third installment past due more than 30 days) from point of sale that processed contract in the last month."
+postype_4733339M,Type of point of sale.
+previouscontdistrict_112M,Contact district of the client's previous approved application.
+price_1097A,Credit price.
+processingdate_168D,Date when the tax deduction is processed.
+profession_152M,Profession of the client during their previous loan application.
+prolongationcount_1120L,Count of prolongations on terminated contract according to credit bureau.
+prolongationcount_599L,Count of active contract prolongations.
+purposeofcred_426M,Purpose of credit for active contract.
+purposeofcred_722M,Purpose of credit for active contracts.
+purposeofcred_874M,Purpose of credit on a closed contract.
+recorddate_4527225D,Date of tax deduction record.
+refreshdate_3813885D,Date when the credit bureau's public sources have been last updated.
+registaddr_district_1083M,District of person's registered address.
+registaddr_zipcode_184M,Registered address's zip code of a person.
+rejectreason_755M,Reason for previous application rejection.
+rejectreasonclient_4145042M,Reason for rejection of the client's previous application.
+relatedpersons_role_762T,"Relationship type of a client's related person (num_group1 - person, num_group2 - related person)."
+relationshiptoclient_415T,Relationship to the client.
+relationshiptoclient_642T,Relationship to the client.
+remitter_829L,Flag indicating whether the client is a remitter.
+requesttype_4525192L,Tax authority request type.
+residualamount_1093A,Residual amount of closed guarantee contract.
+residualamount_127A,Residual amount of active guarantee contract.
+residualamount_3940956A,Residual amount for the active contract.
+residualamount_488A,Residual amount of a closed contract.
+residualamount_856A,Residual amount for the active contract.
+responsedate_1012D,Tax authority's response date.
+responsedate_4527233D,Tax authority's response date.
+responsedate_4917613D,Tax authority's response date.
+revolvingaccount_394A,Revolving account that was present in the applicant's previous application.
+riskassesment_302T,Estimated probability that the client will default on their credit obligation within the next year.
+riskassesment_940T,Estimate of client's creditworthiness.
+role_1084L,Type of contact role.
+role_993L,Person's role.
+safeguarantyflag_411L,Flag indicating if client is using a flexible product with additional safeguard garanty.
+score_940,Estimate of client's creditworthiness.
+secondquarter_766L,Number of results in second quarter.
+sellerplacecnt_915L,Number of sellerplaces where the same client's document was used.
+sellerplacescnt_216L,Number of sellerplaces where the same client's mobile phone was used.
+sex_738L,Gender of the client.
+status_219L,Previous application status.
+subjectrole_182M,Subject role in active credit contract.
+subjectrole_326M,Subject role in active credit contract.
+subjectrole_43M,Subject role in closed credit contract.
+subjectrole_93M,Subject role in closed credit contract.
+subjectroles_name_541M,"Name of subject role in closed credit contract (num_group1 - terminated contract, num_group2 - subject roles)."
+subjectroles_name_838M,"Name of subject role in active credit contract (num_group1 - existing contract, num_group2 - subject roles)."
+sumoutstandtotal_3546847A,Sum of total outstanding amount.
+sumoutstandtotalest_4493215A,Sum of total outstanding amount.
+tenor_203L,Number of instalments in the previous application.
+thirdquarter_1082L,Number of results in third quarter.
+totalamount_503A,Total amount of active secured credit for a client.
+totalamount_6A,Total amount of closed contracts.
+totalamount_881A,Total amount of secured credit from closed contracts.
+totalamount_996A,Total amount of active contracts in the credit bureau.
+totaldebt_9A,Total amount of debt.
+totaldebtoverduevalue_178A,Total amount of past due debt on active contracts.
+totaldebtoverduevalue_718A,Total overdue debt amount for closed credit contracts.
+totaloutstanddebtvalue_39A,Total outstanding debt for active contracts in the credit bureau.
+totaloutstanddebtvalue_668A,Total outstanding debt for the closed contracts in the credit bureau.
+totalsettled_863A,Sum of all payments made by the client.
+totinstallast1m_4525188A,Total amount of monthly instalments paid in the previous month.
+twobodfilling_608L,Type of application process.
+type_25L,Contact type of a person.
+typesuite_864L,Persons accompanying the client during the loan application process.
+validfrom_1069D,Date since the client has an active campaign.
