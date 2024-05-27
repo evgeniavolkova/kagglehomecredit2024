@@ -2,6 +2,8 @@
 
 Solution for the [Home Credit 2024 Kaggle competition](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability).
 
+Solution write-up can be found in Solution.md.
+
 ## Usage
 - To submit on Kaggle: use the notebook. #TODO link
 - To train models: example usage is in notebooks/main.ipynb. To be able to run the code on Google Colab, you'll need to
